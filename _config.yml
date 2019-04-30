@@ -5,3 +5,9 @@ server_port: 4000
 pygments: true
 markdown: maruku
 permalink: /:year/:month/:title.html
+
+title: parclick.github.io
+description: Parclick IT Team Github Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
